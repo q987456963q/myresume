@@ -1,0 +1,161 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._形状 {
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.box_1 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
+.tree_node {
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.image {
+}
+.ellipse {
+}
+.box_11 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.icon {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.box_2 {
+}
+._图片 {
+}
+.button {
+}
+._默认样式 {
+}
+._形状1 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._流程形状1 {
+}
+._形状2 {
+}
+.flow_shape {
+}
+._连接线 {
+}
+._默认样式1 {
+}
+.shape {
+}
+.arrow {
+}
+.link_button {
+  color:#169BD5;
+}
+.table_cell {
+  color:rgba(255, 255, 255, 0.8);
+}
+.connector {
+}
+.ellipse1 {
+}
+.refs-design-apple {
+  font-family:'PingFang SC 55 Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.image1 {
+}
+.box_3 {
+}
+textarea, select, input, button { outline: none; }
